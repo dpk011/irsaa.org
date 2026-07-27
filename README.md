@@ -13,11 +13,13 @@
 
 ---
 ## Monthly Web Meetings
-### July 2026
-- Speaker: Maya P.
-- Topic: 
-- Date & Time: July 25, 2026 (IST)
-- Google Meet link: 
+### July/August 2026
+- Speaker: PN Maya
+- Title: A Case for Gross Electricity-Producing Compact Fusion Pilot Plants
+- Date: August 1, 2026 (Saturday)
+- Time: 9:00 PM IST (please note the time)
+- Google Meet link: https://meet.google.com/fty-ejie-yni
+- Abstract: [ABSTRACT](attachments/TalkAbstract_PNMaya_August2026.md)
 ### June 2026
 - Speaker: Dr Arunsinh Zala
 - Topic: PlasMate-From Lab to Launch
