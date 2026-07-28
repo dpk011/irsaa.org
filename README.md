@@ -4,7 +4,7 @@
 
 ## Research Scholars
 
- - [List of Research Scholar and their PhD Thesis from IPR](https://www.ipr.res.in/library/documents/thesis.html)
+ - [List of Research Scholar and their PhD Thesis from IPR](https://online.ipr.res.in/library/documents/thesis.html)
  - [IPR Scholars' Database](https://docs.google.com/spreadsheets/d/1rV9MaAmZ7_G7qQo77v969Z90KcnREQslsYAbM20LiE4/edit?usp=sharing)
 
 ## Communication 
