@@ -23,7 +23,8 @@
 - Speaker: Devshree Mandal, RF Program Lead Engineer, Lam Research Corp., Bengaluru
 - Title: Plasma Science Career Pathways in Semiconductors
 - Date & Time: September 26, 2026; 10:00 PM IST onward
-- Abstract and a brief-bio
+- [Abstract and a brief-bio](attachments/Abstract_Devshree Mandal_Sept2026.md)
+- Video Recording
 
 ### July/August 2026
 - Speaker: PN Maya
