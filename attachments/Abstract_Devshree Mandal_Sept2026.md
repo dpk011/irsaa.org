@@ -1,5 +1,5 @@
 # Plasma Science Career Pathways in Semiconductors
-*by* Dr. Devshree Mandal, *Lam Research, India*
+**Dr. Devshree Mandal**, *Lam Research, India*
 
 ## Abstract
 
