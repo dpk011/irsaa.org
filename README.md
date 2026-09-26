@@ -15,14 +15,14 @@
 
 ## Monthly Web Meetings
 
-### October 24
+### October 2026
 - Speaker: Suruj Jyoti Kalita, ICTS-TIFR, Bengaluru
-- Title, timing etc: To be announced.
+- Title, timing etc: To be announced. (24th October)
 
-### September 26
+### September 2026
 - Speaker: Devshree Mandal, RF Program Lead Engineer, Lam Research Corp., Bengaluru
 - Title: Plasma Science Career Pathways in Semiconductors
-- Date & Time: September 26, 2026; 10:00 PM IST onward
+- Date & Time: September 26, 2026, Saturday; 10:00 PM IST onward
 - [Abstract_and_brief-bio](attachments/Abstract_Devshree%20Mandal_Sept2026.md)
 - Video Recording
 
