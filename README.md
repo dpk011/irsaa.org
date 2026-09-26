@@ -12,7 +12,18 @@
 - _WhatsApp:_ IPR Alumni Network
 
 ---
+
 ## Monthly Web Meetings
+
+### October 24
+- Speaker: Suruj Jyoti Kalita, ICTS-TIFR, Bengaluru
+- Title, timing etc: To be announced.
+
+### September 26
+- Speaker: Devshree Mandal, RF Program Lead Engineer, Lam Research Corp., Bengaluru
+- Title: Plasma Science Career Pathways in Semiconductors
+- Date & Time: September 26, 2026; 10:00 PM IST onward
+- Abstract and a brief-bio
 
 ### July/August 2026
 - Speaker: PN Maya
@@ -23,7 +34,7 @@
 - Abstract: [ABSTRACT](attachments/TalkAbstract_PNMaya_August2026.md)
 
 ### June 2026
-- Speaker: Dr Arunsinh Zala
+- Speaker: Arunsinh Zala
 - Topic: PlasMate-From Lab to Launch
 - Date & Time: 27th June, 7.30 pm IST (10 pm SGT) (please note the revised time)
 - Google Meet link: [https://meet.google.com/fty-ejie-yni](https://meet.google.com/fty-ejie-yni)
